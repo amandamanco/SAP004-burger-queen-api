@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import Sequelize from 'sequelize'
+
 import configJson from '../config/config'
 
 const basename = path.basename(__filename)
